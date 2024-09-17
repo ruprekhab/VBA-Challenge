@@ -21,7 +21,7 @@ A summary is created for each ticker in the Summary table, which includes:
 
 Conditional formatting is applied to the percentage change column, highlighting positive changes in green and negative changes in red.
 
-The script also finds and displays:
+The script also finds and displays for each quarter:
 1) The ticker with the greatest percentage increase.
 2) The ticker with the greatest percentage decrease.
 3) The ticker with the highest total stock volume.
