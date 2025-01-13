@@ -4,7 +4,7 @@ Excel Stock Analysis VBA Script
 
 This VBA macro analyzes stock data and generates a summary report for each stock ticker. It calculates and displays Quarterly price change, percentage change, total stock volume for each Ticker. It highlights positive percentage change in green and negative change in red. A separate table gets created highlighting tickers with the greatest percentage increase, decrease, and the greatest total volume. 
 
-How It Works
+## How It Works
 
 The script loops through all worksheets in the workbook.
 
